@@ -9,7 +9,7 @@ This process is repeated for every frame of the input video. We use [OpenCV](htt
   
 # Installation and Usage
 
-Option 1:
+### Option 1: Use requirements.txt and pip
 
 **Step 1**: Install [Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html).
 
@@ -41,7 +41,7 @@ python -m ipykernel install --user --name=VolumeCount
 
 **Step 6**: open Jupyter notebook and change kernel to VolumeCount.
 
-Option 2:
+### Option 2: Use Google Colab environment
 
 Follow instructions on [this Google colab page](link_to_colab).
 
