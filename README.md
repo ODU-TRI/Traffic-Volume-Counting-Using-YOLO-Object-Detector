@@ -43,7 +43,7 @@ python -m ipykernel install --user --name=VolumeCount
 
 ### Option 2: Use Google Colab environment
 
-Follow instructions on [this Google colab page](link_to_colab).
+Follow instructions on [this Google colab page](https://colab.research.google.com/drive/1RNYT8CX6BvbfDkVuH4cAeFlehymLFzqo?usp=sharing).
 
 
 
